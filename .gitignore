@@ -23,9 +23,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-*.iml
-.idea/
-target/
+
 
 .idea/vcs.xml
 health_common/src/
@@ -40,3 +38,7 @@ health_service/src/test/
 health_service/target/classes/
 health_web/src/test/
 health_web/target/classes/
+
+*.iml
+.idea/
+target/
